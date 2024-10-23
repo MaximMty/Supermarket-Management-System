@@ -1,0 +1,40 @@
+10000,Milk 1L,Dairy,box,7.00,30,5
+10001,Bread,Food,pack,2.50,20,5
+10002,Shampoo,Personal Care,bottle,8.99,15,3
+10003,Notebook,Stationery,pieces,1.50,50,10
+10004,Chicken,Meat,pack,12.99,8,2
+10005,Coffee,Beverages,box,6.50,30,5
+10006,Toothpaste,Personal Care,box,3.49,25,5
+10007,Cereal,Food,box,4.99,40,10
+10008,Pen,Stationery,pieces,0.99,100,20
+10009,Yogurt,Dairy,pack,3.00,12,4
+10010,Applesauce,Snacks,pack,2.99,18,5
+10011,Socks,Apparel,pack,5.99,50,10
+10012,Rice,Grains,pack,3.49,30,5
+10013,Towel,Home,pack,10.99,20,4
+10014,Cookies,Snacks,box,2.99,35,8
+10015,Soap,Personal Care,pieces,1.25,60,15
+10016,Chips,Snacks,pieces,1.99,42,10
+10017,Water,Beverages,bottle,1.00,50,10
+10018,Pencil,Stationery,pieces,0.50,80,15
+10019,Toilet Paper,Household,pack,6.99,24,6
+10020,Pasta,Grains,pack,2.49,28,8
+10021,Juice,Beverages,bottle,3.50,15,3
+10022,Candles,Home,pieces,2.25,40,10
+10023,Toothbrush,Personal Care,pieces,1.49,30,5
+10024,Cheese,Dairy,pieces,4.99,10,2
+10037,Beef 200g,Freezer,pack,20.00,10,5
+10025,Salad Dressing,Condiments,bottle,3.99,15,4
+10026,Laundry Detergent,Household,bottle,7.99,20,5
+10027,Soup,Canned Goods,pieces,1.99,25,5
+10028,Chocolate,Snacks,pieces,1.75,48,12
+10038,Apple,Fruits,pieces,2.00,50,30
+10029,Yogurt Drink,Beverages,bottle,2.49,18,5
+10030,Conditioner,Personal Care,bottle,6.49,12,3
+10031,Bananas,Fruits,pieces,0.50,80,20
+10032,Corn Flakes,Cereal,box,3.99,25,5
+10033,Battery,Electronics,pack,2.99,10,2
+10034,Pizza,Freezer,pack,8.99,8,2
+10035,Lotion,Personal Care,bottle,4.99,20,5
+100039,Orange,Fruits,pieces,2.50,23,30
+10036,Egg,Food,Pack,4.00,10,5

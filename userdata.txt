@@ -1,0 +1,3 @@
+admin,maxim,admin01
+checker,peter,check123
+purchaser,bob,purch123
